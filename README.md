@@ -8,10 +8,8 @@
 - I'm passionate about learning new things and dealing with challenges.
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white/>][linkedin] 
-
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/bao-bui-xuan-17b645175/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
