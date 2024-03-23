@@ -4,7 +4,7 @@
 
 # Hi there, I'm Bao Bui-Xuan 👋
 
-- I'm a student of the Advanced Program in Computer Science, Ho Chi Minh University of Science, Vietnam National University.
+- I'm a graduate student of the Advanced Program in Computer Science, Ho Chi Minh University of Science, Vietnam National University.
 - I'm passionate about learning new things and dealing with challenges.
 
 ### Connect with me:
